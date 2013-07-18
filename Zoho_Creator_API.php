@@ -22,7 +22,7 @@
  * @author      Pierre-Emmanuel Lévesque
  * @email       pierre.e.levesque@gmail.com
  * @copyright   Copyright 2011, Pierre-Emmanuel Lévesque
- * @license     MIT License - @see README.md
+ * @license     MIT License - @see LICENSE.md
  */
 class Zoho_Creator_API {
 
