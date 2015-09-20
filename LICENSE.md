@@ -1,6 +1,6 @@
 # License
 
-ZohoCreatorAPI uses the MIT open source license.
+zohocreation-api uses the MIT open source license.
 
 ## MIT License (MIT)
 

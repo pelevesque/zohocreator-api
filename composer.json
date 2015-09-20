@@ -2,7 +2,7 @@
     "name": "pel/zohocreator-api",
     "description": "A class to consume Zoho Creator's API.",
     "license": "MIT",
-    "keywords": ["zoho, creator, zohocreator"],
+    "keywords": ["zohocreator"],
     "authors": [
         {
             "name": "Pierre-Emmanuel Lévesque",
